@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MedalExample</string>
+    <string name="Text_Main">Click a button</string>
+    <string name="button1">First</string>
+    <string name="button2">Second</string>
+    <string name="button3">Third</string>
+    <string name="text1">You won Gold!</string>
+    <string name="text2">You won Bronze!</string>
+    <string name="text3">You won Silver!</string>
+</resources>
